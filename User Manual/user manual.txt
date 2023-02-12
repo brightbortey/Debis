@@ -1,0 +1,29 @@
+After installation
+1. Navigate to the folder containing the python files and open it
+2. Run the "debis.exe" file
+3. On the GUI, there are two buttons,
+- RUN
+- EXIT
+4. Click on "RUN" to Start the program and "EXIT" to Stop the program
+5. When running the program, One can issue the following voice commands to the DEBIS voice assistant
+a. "What is the time" - tell the current time.
+b. "What is the date" - tell the current date.
+c. "what is todays Weather condition" - tells the current weather
+d. "latest news on campus" - Shows campus news information.
+e. "Search "what you want to search" on wikipedia" - searches query on wikipedia.
+f. "Open youtube", wait for respondse, and say what you want to search - Opens youtube and searches query
+g. "Search Google", wait for respondse, and say what you want to search - Opens google and searches query
+h. "Search "what you want to search" " - opens microsoft edge or explorer and searches query
+i. "Open Chrome", wait for respondse, and say what you want to search - Opens Google chrome and searches query
+j. "log out", "restart", "shutdown" - performs system functions by shutting down, logging out or restarting the computer
+l. "tell me a joke" - tells a joke
+m. "where is + "any location on campus in full" " you want to find - shows you the directions to the exact location 
+n. "Go offline" - closes the program.
+
+
+Contact Any of Our project team members for additional support
+233543750178
+233548873255
+233550881001
+233508261886
+amponsaheliezer018@gmail.com

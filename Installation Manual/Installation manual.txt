@@ -1,0 +1,32 @@
+1. Install Python (Version 3.9.4)
+2. Install Visual Studio Code
+-install the following extentions in Visual Studio Code
+i. python version(2019.4.12954)
+	-This can be done by
+	 a.install python version.
+	 b.click on the setting sign beside the python extention.
+	 c.type the number of the version of extention you want to install.
+ii. code runner
+iii. pylance
+iv. jupyter
+3. Open to the location of the python files and type "cmd" in the file location box above to open command prompt as administrator.
+-Alternatively, run command prompt as administrator and change directory to the location of the folder containing the python files.
+4. Run the following python commands to setup the environment for installation of all requirements.
+- apt-get install python 
+- pip install wheel
+- pip install rust
+5. Install all the python requirement files
+-pip install "then the name of specific python module" 
+-alternatively use "python -m pip install -r requirements.txt"
+6. Ensure that all python modules are installed to avoid any errors
+7. Run the setup file and choose "Desktop" as installation directory
+8. Start the program with the "exe" python file (debis)  
+9. In case of any debuging, open the folder containing the python file with Visual Studio Code
+
+
+Contact Any of Our project team members for additional support
+233543750178
+233548873255
+233550881001
+233508261886
+amponsaheliezer018@gmail.com
